@@ -1,0 +1,6 @@
+Hello!
+
+I am excited to learn more about this course and explore full-stack integration, 
+particularly how frontend and backend applications work together to create a functional website. 
+
+
